@@ -1,0 +1,18 @@
+div{
+    display:inline;
+}
+span{
+    display:block;
+}
+h1{
+    display:inline-block;
+}
+
+
+
+
+/* none option will removie full tag element from it*/
+
+h1{
+    display:none;
+}

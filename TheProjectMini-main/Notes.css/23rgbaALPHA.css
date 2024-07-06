@@ -1,0 +1,5 @@
+/* the opacity i.e(alpha)has between 0-1(where 1 shows the color very bright and 0 shows nothing and 0.5 shows lighter)*/
+
+h1{
+    color:rgb(255, 0,0,0.5);
+}

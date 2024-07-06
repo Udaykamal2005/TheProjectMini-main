@@ -1,0 +1,37 @@
+/*  Position property has : static , relative, absolute, fixed , sticky
+   static    = default
+   relative  = element is relative to it self(right ,top ,left ,bottom and z-index will work)
+   absolute  = position relative to its closest position ancestor
+   fixed     = position relative to its browser(removed from flow)
+   sticky    = position based on user's scroll position
+
+*/
+div{
+   position : static;
+}
+
+
+div{
+   position: relative;
+   top : 10px;
+   left:20px;
+}
+
+
+div{
+   position: absolute;
+}
+
+
+div{
+   position:fixed;
+   top : 10px;
+   left:20px;
+   bottom:30px;
+}
+
+
+div{
+   position:fixed;
+   top:100px;  
+}

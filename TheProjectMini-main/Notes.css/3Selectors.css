@@ -1,0 +1,31 @@
+/* UNIVERSAL SELECTOR*/
+*{
+    color:red;
+}
+
+
+*{
+    background-color: red;
+}
+
+
+
+/* ELEMENT SELECTORS*/
+h1{
+    color:red;
+}
+
+
+
+/* CLASS SELECTORS*/
+.class{
+    color:red;
+}
+
+
+
+
+/* ID SELECTORS*/
+#id{
+    color:red;
+}

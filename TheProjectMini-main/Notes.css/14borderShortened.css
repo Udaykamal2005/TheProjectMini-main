@@ -1,0 +1,4 @@
+/*  BORDER = WIDTH STYLE COLOR*/
+h1{
+    border:2px red 2px;
+}

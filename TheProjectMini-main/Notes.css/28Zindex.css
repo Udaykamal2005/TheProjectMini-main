@@ -1,0 +1,12 @@
+/*
+   z-index is used to change which div or elemnt should overlap the other;
+*/
+div{
+    position :absolute;
+    z-index: -1;
+}
+
+div{
+    position : fixed;
+    z-index: 2;
+}

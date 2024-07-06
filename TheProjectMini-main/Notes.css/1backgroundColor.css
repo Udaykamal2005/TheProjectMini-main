@@ -1,0 +1,14 @@
+/* BACK GROUND COLOR FOR WHOLE BODY*/
+html{
+    background-color:rgb(220, 240, 240);
+}
+
+
+
+
+
+
+/* BACK GROUND COLOR FOR BUTTON*/
+button{
+    background-color:hsl(hue, saturation, lightness);
+}

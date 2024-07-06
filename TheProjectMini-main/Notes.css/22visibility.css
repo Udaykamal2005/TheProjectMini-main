@@ -1,0 +1,7 @@
+/* visibility:hidden works same as display:none (but in display:non the whole block will be deleted , in which in visibilty:hidden
+ it takes space of the certain block . but it hides the block)
+*/
+
+div{
+    visibility: hidden;
+}

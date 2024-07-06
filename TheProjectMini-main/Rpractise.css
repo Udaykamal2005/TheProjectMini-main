@@ -1,0 +1,30 @@
+body{
+    background-image: url("raksha.png");
+    background-size: cover ;
+}
+div{
+    height:100px;
+    width:100px;
+    background-color: pink;
+    display: inline-block;
+    
+    background-size: auto;
+}
+#box1{
+    background-color:aqua;
+    font-size: 16px;
+    position:absolute;
+    top:2px;
+    z-index: -1 ;
+}
+#box2{
+    background-color: rgb(255,0,0,0.4);
+    font-size: 1rem;
+    z-index:1;
+
+}
+#box3{
+    background-color: green;
+
+
+}

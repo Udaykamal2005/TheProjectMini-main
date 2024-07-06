@@ -1,0 +1,19 @@
+/*  fONT WEIGHT :normal/bold/bolder/lighter   
+    FONT WEIGHT :100-900                   */
+
+h1{
+    font-weight:100;
+}
+
+h1{
+    font-weight:lighter;
+}
+
+#h1{
+    font-weight:bold;
+}
+
+.h1{
+    font-weight:bolder;
+}
+    

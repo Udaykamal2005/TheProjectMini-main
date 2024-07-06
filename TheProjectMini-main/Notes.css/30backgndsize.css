@@ -1,0 +1,16 @@
+div{
+    background-image: url("raksha.png");
+    background-size:cover;
+}
+
+
+div{
+    background-image: url("raksha.png");
+    background-size:contain;
+}
+
+
+div{
+    background-image: url("raksha.png");
+    background-size:auto;
+}

@@ -1,0 +1,5 @@
+/* rem = 2 * font size of root element(2*16)*/
+
+div{
+    height:3rem;           /*    (3*16px)      */
+}

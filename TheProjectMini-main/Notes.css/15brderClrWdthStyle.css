@@ -1,0 +1,6 @@
+h1{
+    border: 2px;
+    border-color: red;
+    border-style: dashed,solid,dotted,double;
+    border-width: 2px;  
+}

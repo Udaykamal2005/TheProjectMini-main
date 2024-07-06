@@ -1,0 +1,17 @@
+h1{
+    font-family:roboto;
+}
+h1{
+    font-family:arial;
+}
+
+
+/* , indicates if arial(X),another */
+h1{
+    font-family: arial,Georgia, 'Times New Roman', Times, serif;
+}
+
+/* TYPES OF FONT FAMILY*/
+h1{
+    font-family:serif,sans-serif,cursive,fantasy,monospace;
+}

@@ -1,0 +1,10 @@
+/* 30% in child tag means it takes 30% of parent tag */
+
+one{
+    height:100px;
+    width:100px;
+}
+two{
+    height:50%;
+    width:50%;
+}

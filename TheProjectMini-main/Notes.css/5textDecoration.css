@@ -1,0 +1,31 @@
+h1{
+    text-decoration: underline;
+}
+
+h1{
+    text-decoration: overline;
+}
+
+
+
+h1{
+    text-decoration: line-through;
+}
+
+
+/* ANCHOR TAG <a>  = cuts underline for links */
+a{
+    text-decoration: none;
+}
+
+/* TEXT DECORATION WITH COLOR*/
+h1{
+    text-decoration: red underline;
+
+}
+/* TEXT DECORATION WITH WAVE UNDERLINE*/
+h1{
+    text-decoration: red wave underline;
+}
+
+/* [[[[[[[[[[[[[[[[[[[TYPES of underlines= wave , dashed, dotted,dotted]]]]]]]]]]]]]]]]]]]]]]*/
